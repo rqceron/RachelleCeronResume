@@ -1,15 +1,14 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Rachelle Ceron's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Rachelle Ceron
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="rachelleqceron@gmail.com">rachelleqceron@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/rachelleceron/">LinkedIn</a>
+| <a href="https://github.com/rqceron">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
