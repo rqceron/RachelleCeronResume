@@ -15,16 +15,12 @@ title: Rachelle Ceron's Resume
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2017-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
+- Full academic scholarship with 4.0 GPA
+- Major: Applied Mathematics
+- Minor: Computer Science & Data Science
 
 ## Related Experience
 
