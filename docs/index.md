@@ -22,10 +22,7 @@ __Brigham Young University - Idaho__, Rexburg, ID (Apr. 2022)
 - RBDC – Data Science Academy
 - BYU-I Data Science Society
 
-
-## Related Experience
-
-### Skills
+## Skills
 • R
 • Python
 • Microsoft Office
@@ -33,7 +30,7 @@ __Brigham Young University - Idaho__, Rexburg, ID (Apr. 2022)
 • Tableau
 • Machine Learning Techniques
 
-### Work Experience
+## Work Experience
 
 `January 2021 - Present`
 __BYU - Idaho Math Study Center__, Rexburg, ID
@@ -59,7 +56,7 @@ one-on-one appointments via Zoom
 - Adjusted instructor’s lesson content to accommodate each student and facilitated discussions to gage their 
 understanding
 
-### Experimental Learning Projects
+## Experimental Learning Projects
 
 `Jan - Apr 2019`
 __Finding Book__, Group Lead
