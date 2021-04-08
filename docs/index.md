@@ -16,65 +16,67 @@ title: Rachelle Ceron's Resume
 ## Education
 
 `2017-2022`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho__, Rexburg, ID (Apr. 2022)
 
-- Full academic scholarship with 4.0 GPA
-- Major: Applied Mathematics
-- Minor: Computer Science & Data Science
+- BS, Applied Mathematics – Computer Science & Data Science Minor
+- RBDC – Data Science Academy
+- BYU-I Data Science Society
+
 
 ## Related Experience
 
-### Internships
+### Skills
+• R
+• Python
+• Microsoft Office
+• SQL
+• Tableau
+• Machine Learning Techniques
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+### Work Experience
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`January 2021 - Present`
+__BYU - Idaho Math Study Center__, Rexburg, ID
+___Statistics Tutor___
+- Provided private instruction for individuals to improve academic performance on weekly exams by breaking 
+down material into simple and understandable concepts 
+- Created weekly appointments with students to monitor progress with the material and articulated study skills, 
+note-taking skills, and test-taking strategies
 
-### Data Science Lead
+`Aug 2020 - Jan 2021`
+__Research Business Development Center__, Rexburg, ID
+___Data Annotator___
+- Assessed thousands of images for a project sponsored by Lineage Logistics to annotate for company’s current 
+AI implementations
+- Committed time to study different machine learning algorithms and practiced through implementation of 
+various methods such as perceptrons, neural networks and tensorboard
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`Sep 2020 - Dec 2021`
+__BYU-Pathway Connect__, Rexburg, ID
+___Math Tutor___
+- Tutored 12+ students per week teaching them through various instructional approaches and activities during
+one-on-one appointments via Zoom 
+- Adjusted instructor’s lesson content to accommodate each student and facilitated discussions to gage their 
+understanding
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### Experimental Learning Projects
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
+`Jan - Apr 2019`
+__Finding Book__, Group Lead
+- Invented an Android app enabling the user to construct an address book to efficiently store a resident’s 
+location 
+-  Collaborated with a team through weekly meetings to satisfy expectations of the client for performance and 
+functionality while meeting deadlines 
+- Executed implementation of the Geo code API to successfully retrieve, convert, and store user's location for 
+further usage
 
 
-`2023-2025`
-__Service Missionary__, South Africa
-
+`Jan 2021`
+__Loan Term Project__, Group Member
+- Utilized bank company’s dataset to develop a Random Forest Decision Tree with 96% accuracy rate 
+predicting if a customer would subscribe to a term deposit
+- Developed an executive summary to showcase actionable contact recommendations for the company and 
+detailed plans to increase their productivity
 
 
 <!-- ### Footer
